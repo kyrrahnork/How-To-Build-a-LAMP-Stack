@@ -7,3 +7,5 @@ Repository for tutorials on the following:
 
 1. link to website
 https://kyrrahnork.github.io/How-To-Build-a-LAMP-Stack/
+
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
